@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 public class MensagemService {
 
 			
-	private final String apiKey = "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";
+	private final String apiKey = "substitua-o-texto-pela-sua-chave-gpt";
 	private final String apiUrl = "https://api.openai.com/v1/engines/text-davinci-003/completions";
     
     
